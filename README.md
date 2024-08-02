@@ -19,5 +19,11 @@ Hola!! realizamos un servidor web donde servimos una  **web tipo red social como
 
 ## nueva rama
 Migración web a ES6, en la nueva rama podremos ver y comparar el código en ambas versiones 
+
 a.  rama ** master ** = realiza las exportaciones e importaciones con el JavaScript básico
+
 b. rama ** es6-js-server ** = Forma moderna más parecido a Typscript, con "módulos" para la exportación.
+
+
+
+
